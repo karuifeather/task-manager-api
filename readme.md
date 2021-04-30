@@ -1,6 +1,6 @@
 # Task Manager App
 
-Built using Node, Express and MongoDB is this little Task Manager app is packed with user authentication and basic authorization along with features like handling images.
+Built using Node, Express and MongoDB, is this little Task Manager app, packed with user authentication and basic authorization along with features like handling images.
 
 It is a pure backend project. To test the routes, you'll have to use Postman or similar software.
 
@@ -14,7 +14,7 @@ It is a pure backend project. To test the routes, you'll have to use Postman or 
 
 ## Routes
 
-The following is in no way a proper documentation for an API but instead aims to provide a high-level view. You'll have to start looking at the code for proper usage of the app.
+The following is in no way a proper documentation for an API but instead aims to provide a high-level overview of the available rotutes. You'll have to start looking at the code for proper usage of the app.
 
 - User routes `/users`
 
